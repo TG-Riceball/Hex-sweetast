@@ -1,0 +1,31 @@
+@Fontawesome
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.3.1/css/all.min.css
+
+far fa-heart
+fa fa-shopping-cart
+fa fa-angle-left
+fa fa-angle-right
+fa fa-bars
+
+<i class="fa fa-heart-o"></i>
+fa-2x
+
+
+@色
+主: #3f5d45
+輔: #EAF0ED
+
+@字
+標: 24->1.5(rem)
+副: 20->1.25(rem)
+普: 16->1(rem)
+
+@標頭
+文: 16
+行: 22
+Padding: 上 10 下 8
+
+@卡片
+高 56
+左 173
+右 127
